@@ -63,6 +63,14 @@
  <details close>
 <summary>𝘾𝙃𝘼𝙉𝙂𝙀 𝙇𝙊𝙂</summary>
 
+- *Fixed Download and AI*
+- ***SIGMA-MD v1.5.3 Releases, 6 March,2024***
+- *Fixed `All Ai` Commands*
+- *Fixed `Spotify` Command*
+- *Fixed `All Anime` Commands*
+- *Fixed `Insta,Fb,Tiktok` Commands*
+- *Fixed All Not Working Commands, Due To Api*
+- *Added My Own Api In Bot https://api.maher-zubair.tech*
 - ***SIGMA-MD v1.4.9 Releases, 16 Feb,2024***
 - *Added `Pair Code` For Session ID*
 - *Added New `Session ID` For Bot*
@@ -133,7 +141,7 @@
 ## `𝘋𝘦𝘱𝘭𝘰𝘺𝘮𝘦𝘯𝘵 𝘔𝘦𝘵𝘩𝘰𝘥𝘴`
 1. ***Star⭐ The Repository Must***
 2. ***Click [FORK](https://github.com/Maher-Zubair/SIGMA-MD/fork)***
-3. ***Get Your [SESSION ID](https://sessions.maher-zubair.tech)***
+3. ***Get Your [SESSION ID](https://cndjkcb-08cd6ac5fe9f.herokuapp.com)***
 4. ***Get Your [Mongodb](https://www.mongodb.com/cloud/atlas/register) Url***
 5. ***Deploy on [Heroku](https://maher-zubair.tech/Bot/deploy/heroku)***
 6. ***Deploy on [Replit](https://maher-zubair.tech/Bot/deploy/replit)***

@@ -1,7 +1,7 @@
 {
   "name": "sigma-md",
-  "version": "1.4.9",
-  "description": "A CRAZY WHATSAPP BOT BY Maher-Zubair",
+  "version": "1.5.3",
+  "description": "A CRAZY WHATSAPP BOT BY Maher Zubair",
   "main": "lib/client.js",
   "type": "commonjs",
   "scripts": {
@@ -24,10 +24,12 @@
   ],
   "dependencies": {
       "@adiwajshing/keyed-db": "^0.2.4",
+      "@bochilteam/scraper-sosmed": "^1.0.5",
       "@hapi/boom": "^10.0.1",
       "@mapbox/node-pre-gyp": "^1.0.11",
       "@shineiichijo/marika": "^2.0.3",
       "@whiskeysockets/baileys": "^6.5.0",
+      "api-dylux": "^1.7.2",
       "acrcloud": "^1.4.0",
       "anime-character-random": "latest",
       "aptoide-scraper": "^1.0.1",
